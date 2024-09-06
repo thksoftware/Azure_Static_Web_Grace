@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+</head>
+<body>
+  <h1>Welcome to my website!</h1>
+  <p>This is a simple example of an HTML page.</p>
+  <p>You can add more content here, such as:</p>
 <link rel='stylesheet' href='https://bots.kore.ai/webclient/UI/dist/kore-ai-sdk.min.css'></link>
 <script src='https://bots.kore.ai/api/platform/websdkjs/95b8ad94b30545a39310c1e6288830cf26cee1a2c89449ef881013f219eebed3st83'></script>
 <script>KoreSDK.show(KoreSDK.chatConfig);</script>
+  <ul>
+    <li>Text</li>
+    <li>Images</li>
+    <li>Links</li>
+    <li>Forms</li>
+  </ul>
+</body>
+</html>
